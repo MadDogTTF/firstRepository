@@ -1,0 +1,25 @@
+---
+- name: Install Multple Chocolately Packages with Variables
+  hosts: all
+  gather_facts: false
+
+  collections:
+    - chocolatey.chocolatey
+    - ansible.windows
+
+  vars: 
+    choco_packages:
+    - name: 7zip
+      version: 21.7
+    - name: notepadplusplus.install
+      version: 8.3
+    - name: vscode.install
+      version: 1.64.0
+
+  tasks:
+
+    - name: Install Chocolatey packages
+      chocolatey.chocolatey.win_chocolatey:
+        name: "{{ item.name }}"
+        source: https:\\noneyabidness
+      loop: "{{ choco_packages }}"
