@@ -11,8 +11,110 @@
     choco_packages:
     - name: 7zip
       version: 21.7
+    - name: adobe-acrobat-reader-dc
+      version: 2021.007.20099
+    - name: adobe-after-effects
+      version: 17.5.0
+    - name: adobe-after-effects
+      version: 18.2.1
+    - name: adobe-bridge
+      version: 12.0.1
+    - name: adobe-media-encoder
+      version: 15.4.1
+    - name: adobe-photoshop
+      version: 22.4.3
+    - name: adobe-premiere
+      version: 15.4.1
+    - name: autodesk-maya
+      version: 19.2.0.8774
+    - name: autodesk-maya
+      version: 2020.4.0.1627
+    - name: avid-codecs-le
+      version: 2.7.3.39175
+    - name: blender
+      version: 3.0.0
+    - name: videocopilot-color-vibrance
+      version: 2.18.2016
+    - name: blackmagicdesign-davinci-resolve
+      version: 17.4.30010
+    - name: ttf-unreal-engine
+      version: 4.27.2
+    - name: adobe-extendedscript-toolkit
+      version: 4
+    - name: adobe-fusecc
+      version: 2017
+    - name: google-chrome
+      version: 96.0.4664.110
+    - name: google-earth-pro
+      version: 7.3.4.8248
+    - name: helix-core-apps
+      version: 192.190.4275
+    - name: zurbrigg-keyframe-mp
+      version: 2.10.1
+    - name: libreoffice
+      version: 7.2.4.1
+    - name: mozilla-firefox
+      version: 83
     - name: notepadplusplus.install
       version: 8.3
+    - name: obs-studio
+      version: 27.1.3
+    - name: thepixelfarm-pftrack
+      version: 15.05.15135
+    - name: thepixelfarm-pftrack
+      version: 2017.23.13
+    - name: python
+      version: 2.7.18
+    - name: python
+      version: 3.7.7
+    - name: apple-quicktime
+      version: 7.78.80.95
+    - name: autodesk-rv
+      version: 2021.0.3
+    - name: trimble-sketchup
+      version: 21.0.339.0
+    - name: spacesniffer
+      version: 1.3.0.1
+    - name: adobe-substance-painter
+      version: 2019.1.3
+    - name: adobe-substance-player
+      version: 11.1.2
+    - name: ttf-launchers
+      version: 1
+    - name: videocopilot-optical-flares
+      version: 1.35
+    - name: microsoft-visual-studio-code
+      version: 1.63.1
+    - name: videolan-vic
+      version: 3.0.11
+    - name: wacom-drivers
+      version: 6.3.44-3
+    - name: russian3dscanner-wrap
+      version: 3.3.17
+    - name: sorgaz-xnormal
+      version: 3.19.3c
+    - name: meshlab
+      version: 2021.05
+    - name: path-copy-copy
+      version: 19.0.0
+    - name: idyllicpixel-pureref
+      version: 1.11.1
+    - name: quixel-bridge
+      version: 2021.1.0
+    - name: pixologic-zbrush-node-locked
+      version: 2021.6.6
+    - name: sciencedvisions-3dequalizer4
+      version: 7
+    - name: autodesk-motionbuilder
+      version: 20.0.0.37
+    - name: pycharm-community
+      version: 2021.3.1
+    - name: agisoft-metashape-standard
+      version: 1.6.5
+    - name: sketchup
+      version: 8.7.0
+    - name: foundry-nuke
+      version: 11.1.1
     - name: vscode.install
       version: 1.64.0
 
